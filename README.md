@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ![swy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=swy99&show_icons=true&theme=merko)
-<img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=merko&hide_border=true" /> 
+<img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swy99&layout=compact&theme=merko&hide_border=true" /> 
 
 
 ## Interests
