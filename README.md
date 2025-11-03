@@ -55,3 +55,4 @@ Here are some ideas to get you started:
 ![JAX](https://img.shields.io/badge/JAX-5E48B3.svg?&style=for-the-badge&logo=jax&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
