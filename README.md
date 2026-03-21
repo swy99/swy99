@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 
 ## Interests
-- Backend Engineering
+- E2E ADS
 - AI/ML
 - Reinforcement Learning
+- Backend Engineering
 - Finance
 - Robotics
 
