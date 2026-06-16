@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 ![swy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=swy99&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on RL for locomotion.
-- 🌱 I’m currently learning unmanned systems.
+- 🤖 I’m currently working on RL for locomotion.
+- 🧭 I’m currently learning unmanned systems.
 - 👯 I’m looking to collaborate on RL for robotics.
 - 🤔 I’m looking for help with locomotion reward shaping.
-- 📫 How to reach me: e-mail, dm, or whatever that sends a notification to my phone.
+- 📞 How to reach me: e-mail, dm, or whatever that sends a notification to my phone.
 - 🍗 Favorite food: Lasagna, Döner Kebab, and Margherita.
-- 🤢 Food I don't like: 
-- ⚡ Fun fact: I spent 2 extra years in undergraduate studying ME without actually earning the degree.
+- 🤮 Food I don't like: 
+- 😂 Fun fact: I spent 2 extra years in undergraduate studying ME without actually earning the degree.
 - 🧠 MBTI(I'm a big fan of it): INTJ
 
 <img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swy99&layout=compact&theme=merko&hide_border=true" /> 
