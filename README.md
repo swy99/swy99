@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 
 ## Interests
-- E2E ADS
-- AI/ML
+- Deep Learning
 - Reinforcement Learning
-- Backend Engineering
 - Robotics
+- Autonomous Driving
+- Game Theory
+- Computer Vision
 
 
 ## Algorithm
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### Comfortable with
+![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -51,7 +53,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 ### Basic knowledge of
-![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
 ![Issac Lab](https://img.shields.io/badge/isaac%20lab-green?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-5E48B3.svg?&style=for-the-badge&logo=jax&logoColor=white)
@@ -61,3 +62,4 @@ Here are some ideas to get you started:
 
 ## Education
 BS in Computer Science, KAIST
+MS in Division of Future Vehicles, KAIST
