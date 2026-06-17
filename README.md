@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🤮 Food I don't like: 
 - 😂 Fun fact: I spent 2 extra years in undergraduate studying ME without actually earning the degree.
 - 🧠 MBTI(I'm a big fan of it): INTJ
-- 🇺🇸 I'm looking for job opportunities in the US. Contact me if you are looking for a responsible fast learner with a good mathematical intuition.
+
 
 <img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swy99&layout=compact&theme=merko&hide_border=true" /> 
 
